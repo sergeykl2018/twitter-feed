@@ -26,4 +26,3 @@ push-release:
         ports: $PORT
         env: PORT=$PORT
         cmd: sh target/bin/start
-        
